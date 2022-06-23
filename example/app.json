@@ -1,0 +1,23 @@
+{
+  "name": "react-native-gross-elements-example",
+  "displayName": "GrossElements Example",
+  "expo": {
+    "name": "react-native-gross-elements-example",
+    "slug": "react-native-gross-elements-example",
+    "description": "Example app for react-native-gross-elements",
+    "privacy": "public",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "jsEngine": "hermes",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
